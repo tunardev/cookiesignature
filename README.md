@@ -1,6 +1,6 @@
 # Cookie Signature
 
-Provides functionality for signing and verifying signed cookie values using HMAC and SHA-256. This can be useful in scenarios where you want to ensure the integrity of data stored in cookies.
+The package offers the ability to sign and verify cookie values using HMAC and SHA-256. This feature is beneficial when you need to guarantee the accuracy of information retained in cookies.
 
 ## Installation
 
